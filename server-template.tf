@@ -1,3 +1,5 @@
+#to deploy server running on EC2 instance
+
 terraform {
   required_providers {
     aws = {
